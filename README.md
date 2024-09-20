@@ -1,5 +1,5 @@
-- Name - Pramod
-- Author - Pramod
+- Name - Basayya Hiremath
+- Author - Basayya
 
 ### Web Automation Framework with POM in Python(Selenium)
 
